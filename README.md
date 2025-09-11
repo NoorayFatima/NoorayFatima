@@ -1,9 +1,9 @@
 # Hi, I'm Noor Fatima 👋  
 
-🎓 Final-year Computer Science Student | 💻 Web Developer | 📬 Open for Internships & Freelance Projects  
+🎓 Final-year Computer Science Student | 💻 Web Developer | 📬 Open for Jobs & Freelance Projects  
 
 I’m passionate about building modern, scalable, and user-friendly web applications.  
-Currently working with **Laravel, React (MERN), and WordPress** while exploring **AI & Flask** for side projects.  
+Currently working with **Laravel, React (MERN), and WordPress** while exploring **AI** for side projects.  
 
 ---
 
@@ -17,7 +17,6 @@ Currently working with **Laravel, React (MERN), and WordPress** while exploring 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -41,29 +40,19 @@ A simple yet professional task management app with a live demo on Netlify.
 
 ---
 
-## 📊 GitHub Stats  
-
-![NoorayFatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorayFatima&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorayFatima&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoorayFatima&theme=tokyonight)  
-
----
-
 ## 🏆 Highlights  
 - Built **30+ projects** across frontend and backend.  
 - Experienced in **deploying live apps** (Netlify, Vercel, cPanel).  
-- Actively sharing projects, blogs, and learning journey.  
-- Preparing for **professional opportunities in Web Development (Laravel & MERN)**.  
+- Actively sharing projects, and learning journey.  
+- Preparing for **professional opportunities in Web Development**.  
 
 ---
 
 ## 📬 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noorayfatima)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/noorfatima35)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoorayFatima)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noorfatima@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nf569100@gmail.com)  
 
 ---
 
