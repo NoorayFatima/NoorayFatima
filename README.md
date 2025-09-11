@@ -26,17 +26,21 @@ Currently working with **Laravel, React (MERN), and WordPress** while exploring 
 
 ## 📌 Featured Projects  
 
-🔹 [**Support Ticket System (Laravel)**](https://github.com/NoorayFatima/support-ticket-system)  
+🔹 [**Support Ticket System (Laravel)**](https://github.com/NoorayFatima/Support-Ticket-System)  
 Complete ticket management system with user authentication, role-based access, and email notifications.  
 
-🔹 [**Weather Dashboard (React)**](https://github.com/NoorayFatima/weather-dashboard)  
+🔹 [**Weather Dashboard (React)**](https://github.com/NoorayFatima/Weather-Dashboard)  
 Modern, responsive weather app with real-time API integration and clean UI.  
 
-🔹 [**Food Order System (PHP/MySQL)**](https://github.com/NoorayFatima/food-order-system)  
+🔹 [**Food Order System (PHP/MySQL)**](https://github.com/NoorayFatima/Food-Order-System)  
 Dynamic food ordering website with admin panel, order management, and payment integration.  
 
 🔹 [**TODO React App**](https://github.com/NoorayFatima/todo-react)  
 A simple yet professional task management app with a live demo on Netlify.  
+
+🔹 [**Daily Journal App**](https://github.com/NoorayFatima/Daily-Journal)  
+A Full-Stack daily journal app built in laravel where users can write their thoughts and blogs.  
+
 
 ---
 
