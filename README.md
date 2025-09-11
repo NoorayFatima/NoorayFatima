@@ -1,6 +1,6 @@
 # Hi, I'm Noor Fatima 👋  
 
-🎓 Final-year Computer Science Student | 💻 Web Developer | 📬 Open for Jobs & Freelance Projects  
+🎓 Final-year Computer Science Student | 💻 Full-Stack Web Developer | 📬 Open for Jobs & Freelance Projects  
 
 I’m passionate about building modern, scalable, and user-friendly web applications.  
 Currently working with **Laravel, React (MERN), and WordPress** while exploring **AI** for side projects.  
@@ -45,7 +45,7 @@ A Full-Stack daily journal app built in laravel where users can write their thou
 ---
 
 ## 🏆 Highlights  
-- Built **30+ projects** across frontend and backend.  
+- Built **20+ projects** across frontend and backend.  
 - Experienced in **deploying live apps** (Netlify, Vercel, cPanel).  
 - Actively sharing projects, and learning journey.  
 - Preparing for **professional opportunities in Web Development**.  
