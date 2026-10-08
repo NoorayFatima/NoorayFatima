@@ -123,7 +123,3 @@ I'm always interested in connecting with developers, engineers, founders, and pe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noorfatima35)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoorayFatima)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nf569100@gmail.com)
-
----
-
-⭐ **Building practical software, learning continuously, and improving one system at a time.**
